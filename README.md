@@ -1,4 +1,4 @@
-# Greenhouse Gas Emission in EU Member States
+# Greenhouse Emission Patterns in EU Member States
 
 ## Overview
 ___
